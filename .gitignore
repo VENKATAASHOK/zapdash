@@ -1,0 +1,14 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+pubspec.lock
+
+# Editor configurations
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
